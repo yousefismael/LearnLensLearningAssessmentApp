@@ -1,0 +1,10 @@
+{
+  "description": "Helps Grades 1–5 students submit exams and track progress while teachers review OCR, grade work, share feedback, and identify learning gaps.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
